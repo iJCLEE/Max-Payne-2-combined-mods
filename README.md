@@ -16,11 +16,11 @@ I ran into limits of the mp2 engine that stopped me from making the alternate sk
 Start Max payne 2 and select Kung Fu Evolution from the drop down box.
 
 How to play:
-Customise your controls!
-MB1 - Shoot
-MB2 - Bullettime Combo
-E   - Use
-F   - Bullettime Only
+You can Customise your controls!
+- MB1 - Shoot
+- MB2 - Bullettime Combo
+- E   - Use
+- F   - Bullettime Only
 
 Is the setup i will recommend people for best controls.
 Then go to Start Kung Fu Evolution and select Dojo where you'll learn the basics of the Kung fu system!
