@@ -1,10 +1,10 @@
 # Max-Payne-2-combined-mods
-Some people asked about Max Payne 2 Kung Fu Evolution with First person mod and no one combines them, so i took this project and combined them for Max Payne players who want to enjoy Kung Fu Evolution with First person mode!
 
 Welcome!
 You are about to play the Long Awaited combined mods:
 Kung Fu Evolution + First person! - Combined by JCLEE
 
+Some people asked about Max Payne 2 Kung Fu Evolution with First person mod and no one combines them, so i took this project and combined them for Max Payne players who want to enjoy Kung Fu Evolution with First person mode!
 
 How to install:
 - Put ALL files from rar/zip into your Max Payne 2 install folder.
