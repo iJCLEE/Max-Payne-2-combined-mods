@@ -12,7 +12,7 @@ How to install:
 Right click on the MaxPayne2 shortcut on your desktop and add: -developer -developerkeys -screenshots after maxpayne2.exe"
 (Eg, "D:\Spil\RockstarGames\Max Payne 2\MaxPayne2.exe" -developer -developerkeys -screenshot )
 This has to be done so you can select alternate skins for some characters by pressing the PG UP og PG DOWN button.
-I ran into limits of the mp2 engine that stopped me from making the alternate skins selectable from menu.
+I ran into limits of the Max Payne 2 engine that stopped me from making the alternate skins selectable from menu.
 Start Max payne 2 and select Kung Fu Evolution from the drop down box.
 
 How to play:
