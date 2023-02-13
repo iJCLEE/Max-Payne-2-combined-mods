@@ -27,8 +27,8 @@ Then go to Start Kung Fu Evolution and select Dojo where you'll learn the basics
 F10 button for screenshots.
 
 
-Combined by JCLEE 13.02.2023 - https://github.com/iJCLEE -> 
-Download this combined mod from my Google Drive - https://drive.google.com/file/d/1ka2YNncYUjT0jP0SLACemqfCxn3f7KJK/view?usp=share_link
+Combined by JCLEE 13.02.2023 - https://github.com/iJCLEE
+- Download this combined mod from my Google Drive - https://drive.google.com/file/d/1ka2YNncYUjT0jP0SLACemqfCxn3f7KJK/view?usp=share_link
 
 
 Credit to Kung Fu Evolution maker: 
