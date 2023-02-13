@@ -16,7 +16,6 @@ I ran into limits of the mp2 engine that stopped me from making the alternate sk
 Start Max payne 2 and select Kung Fu Evolution from the drop down box.
 
 How to play:
-You can Customise your controls!
 - MB1 - Shoot
 - MB2 - Bullettime Combo
 - E   - Use
