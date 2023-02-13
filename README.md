@@ -21,7 +21,7 @@ How to play:
 - E   - Use
 - F   - Bullettime Only
 
-Is the setup i will recommend people for best controls.
+Is the setup we will recommend people for best controls.
 Then go to Start Kung Fu Evolution and select Dojo where you'll learn the basics of the Kung fu system!
 
 F10 button for screenshots.
