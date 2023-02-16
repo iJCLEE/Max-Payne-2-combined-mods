@@ -17,7 +17,7 @@ Is the setup we will recommend people for best controls. Then go to Start Kung F
 
 F10 button for screenshots.
 
-Combined by JCLEE 13.02.2023 - https://github.com/iJCLEE - Download this combined mod from my Google Drive - https://drive.google.com/file/d/1ka2YNncYUjT0jP0SLACemqfCxn3f7KJK/view?usp=share_link
+Combined by JCLEE 13.02.2023 - https://github.com/iJCLEE - Download this combined mod from: https://www.moddb.com/mods/fps-mod/addons/first-person-and-kung-fu-evolution-mod-combined-by-jclee
 
 Contact me, if you want me to help you combine the mods you want! 
 - https://twitter.com/iJCLEE
