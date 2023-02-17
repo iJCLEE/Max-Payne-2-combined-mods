@@ -2,6 +2,20 @@ Welcome! You are about to play the Long Awaited combined mods: Kung Fu Evolution
 
 Some people asked about Max Payne 2 Kung Fu Evolution with First person mod and no one combines them, so i took this project and combined them for Max Payne players who want to enjoy Kung Fu Evolution with First person mode!
 
+Example video: https://www.youtube.com/watch?v=K0WuWhmsfr0&t=1s
+
+Combined by JCLEE 13.02.2023 - https://github.com/iJCLEE - Download this combined mod from: https://www.moddb.com/mods/fps-mod/addons/first-person-and-kung-fu-evolution-mod-combined-by-jclee
+
+Contact me, if you want me to help you combine the mods you want! 
+- https://twitter.com/iJCLEE
+
+
+Credit to Kung Fu Evolution maker: Andersen / Necro Developers, 29.07.2012
+- https://www.moddb.com/mods/kung-fu-evolution
+
+Credit to First person maker: ut989, 2009
+- https://www.moddb.com/mods/fps-mod
+
 How to install:
 - Just simply put all files from rar/zip into your Max Payne 2 install folder.
 
@@ -17,14 +31,4 @@ Is the setup we will recommend people for best controls. Then go to Start Kung F
 
 F10 button for screenshots.
 
-Combined by JCLEE 13.02.2023 - https://github.com/iJCLEE - Download this combined mod from: https://www.moddb.com/mods/fps-mod/addons/first-person-and-kung-fu-evolution-mod-combined-by-jclee
 
-Contact me, if you want me to help you combine the mods you want! 
-- https://twitter.com/iJCLEE
-
-
-Credit to Kung Fu Evolution maker: Andersen / Necro Developers, 29.07.2012
-https://www.moddb.com/mods/kung-fu-evolution
-
-Credit to First person maker: ut989, 2009
-https://www.moddb.com/mods/fps-mod
